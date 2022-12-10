@@ -47,7 +47,7 @@ display EVERY THING to the screen as follow:
 height of a rectangular shape. The procedure will calculate the
 area and the perimeter using the following formula:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Area = Width X Height
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perimeter = (Width + Height) X 2
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Perimeter = (Width + Height) x 2
 <br>display EVERY THING to the screen as follow:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The area of a ... by ... is .... It's parameter is ...
 <br>Ex:
