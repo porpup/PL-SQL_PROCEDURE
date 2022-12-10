@@ -1,7 +1,3 @@
-CONNECT scott/tiger;
-
-SET SERVEROUTPUT ON
-
 SPOOL /tmp/oracle/projectPart1_spool.txt
 
 SELECT to_char(sysdate, 'DD Month YYYY Year Day HH:MI:SS Am')
@@ -16,6 +12,8 @@ FROM   dual;
     The triple of 2 is 6.
     Exec L1q1 (3)
     The triple of 3 is 9. */
+SET SERVEROUTPUT ON
+
 CREATE OR REPLACE PROCEDURE L1q1 (input IN NUMBER) AS
     num NUMBER;
     output NUMBER;
